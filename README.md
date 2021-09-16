@@ -6,8 +6,8 @@
 - 🌱 Atualmente sou formado em:
 - ciências exatas em Licenciatura de Matemática / Física
 - Desenvolvedor na Generation Brasil.
--Comecei recentemente meu MBA em análise de dados com BI e Big Data
--Sou um Forte colaborador capaz de aprender rapidamente e aplicar novas tecnologias.
+- Comecei recentemente meu MBA em análise de dados com BI e Big Data
+- Sou um Forte colaborador capaz de aprender rapidamente e aplicar novas tecnologias.
 - Atualmente Trabalho como Desenvolvedor no Santander Tecnologia
 
 
