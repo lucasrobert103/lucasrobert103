@@ -1,7 +1,17 @@
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/> Olá, sou o Lucas Robert dos Santos Bueno - 21 anos</h1>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+<br>
+<div> 
+  <a href="https://www.instagram.com/caio.breezy" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfrtdMKwHXhzVNlVWLvvczjLNhbxzKHMvZTFcKdPVZFcRdsZNcxgdVqNGsXdcmRWpPltFL"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/caio-vinicius-gon%C3%A7alves-6160911a8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
 ### Olá eu sou o Lucas Robert 👋
 
 
-
+## 🛠 Minhas características
 - 🔭 Sou desenvolvedor Java Full Stack
 - 🌱 Atualmente sou formado em:
 - ciências exatas em Licenciatura de Matemática / Física
@@ -49,6 +59,7 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+  <img align='right' src="https://i0.wp.com/thumbs.gfycat.com/ExcellentBeautifulBarnswallow-max-1mb.gif" width="230">
  
 </div>
  
