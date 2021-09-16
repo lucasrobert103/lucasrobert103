@@ -5,7 +5,8 @@
 - 🔭 Sou desenvolvedor Java Full Stack
 - 🌱 atualmente sou formado em Matemática licenciatura 
 - sou IT Developer no Santander Tacnologia
-![image](https://user-images.githubusercontent.com/69163019/133696234-7636cf2a-33f2-4d49-a468-723df2c0a873.png)
+![image](https://user-images.githubusercontent.com/69163019/133696297-51bd10f7-91ce-49de-8333-93b989da97df.png)
+
 
 
 
