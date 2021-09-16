@@ -3,10 +3,20 @@
 
 
 - 🔭 Sou desenvolvedor Java Full Stack
-- 🌱 Atualmente sou formado em ciências exatas em Licenciatura de Matemática / Física, e também em Desenvolvedor na Generation Brasil.
+- 🌱 Atualmente sou formado em:
+- ciências exatas em Licenciatura de Matemática / Física
+- Desenvolvedor na Generation Brasil.
 Comecei recentemente meu MBA em análise de dados com BI e Big Data
 Sou um Forte colaborador capaz de aprender rapidamente e aplicar novas tecnologias.
 
+
+
+![image](https://user-images.githubusercontent.com/69163019/133696572-f6d40fb6-f7c3-43f9-9e4b-03a3b6a29cf0.png)
+
+
+
+
+- Atualmente Trabalho como Desenvolvedor no Santander Tecnologia
 “Bom mesmo é ir à luta com determinação, abraçar a vida com paixão, perder com classe e vencer com ousadia, por que o mundo pertence a quem se atreve. E a vida é muito bela para ser insignificante.”
 ― Charlie Chaplin 
 - Sou IT Developer no Santander Tacnologia
