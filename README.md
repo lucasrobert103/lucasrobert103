@@ -19,8 +19,6 @@ Sou um Forte colaborador capaz de aprender rapidamente e aplicar novas tecnologi
 - Atualmente Trabalho como Desenvolvedor no Santander Tecnologia
 “Bom mesmo é ir à luta com determinação, abraçar a vida com paixão, perder com classe e vencer com ousadia, por que o mundo pertence a quem se atreve. E a vida é muito bela para ser insignificante.”
 ― Charlie Chaplin 
-- Sou IT Developer no Santander Tacnologia
-![image](https://user-images.githubusercontent.com/69163019/133696297-51bd10f7-91ce-49de-8333-93b989da97df.png)
 
 
 
