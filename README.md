@@ -29,8 +29,8 @@ Sou um Forte colaborador capaz de aprender rapidamente e aplicar novas tecnologi
 
   <div>
   <a href="https://github.com/lucasrobert103">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=Mayaralbueno&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Mayaralbueno&layout=compact&langs_count=7&theme=dark" />
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=lucasrobert103&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrobert103&layout=compact&langs_count=7&theme=dark" />
 </div
     
     
