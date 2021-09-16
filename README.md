@@ -5,7 +5,8 @@
 - 🔭 Sou desenvolvedor Java Full Stack
 - 🌱 atualmente sou formado em Matemática licenciatura 
 - sou IT Developer no Santander Tacnologia
-https://marcas-logos.net/wp-content/uploads/2020/02/Santander-Logo.png
+![image](https://user-images.githubusercontent.com/69163019/133696117-ce0f01cd-ded9-484f-92cf-2c5bb6fc8bb4.png)
+
 
 
   <div>
