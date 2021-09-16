@@ -8,6 +8,7 @@
 - Desenvolvedor na Generation Brasil.
 Comecei recentemente meu MBA em análise de dados com BI e Big Data
 Sou um Forte colaborador capaz de aprender rapidamente e aplicar novas tecnologias.
+- Atualmente Trabalho como Desenvolvedor no Santander Tecnologia
 
 
 
@@ -16,7 +17,9 @@ Sou um Forte colaborador capaz de aprender rapidamente e aplicar novas tecnologi
 
 
 
-- Atualmente Trabalho como Desenvolvedor no Santander Tecnologia
+
+
+
 “Bom mesmo é ir à luta com determinação, abraçar a vida com paixão, perder com classe e vencer com ousadia, por que o mundo pertence a quem se atreve. E a vida é muito bela para ser insignificante.”
 ― Charlie Chaplin 
 
