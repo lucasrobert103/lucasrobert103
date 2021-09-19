@@ -29,7 +29,7 @@
 
 
 
-“Bom mesmo é ir à luta com determinação, abraçar a vida com paixão, perder com classe e vencer com ousadia, por que o mundo pertence a quem se atreve. E a vida é muito bela para ser insignificante.”
+“Bom mesmo é ir à luta com determinação, abraçar a vida com paixão, perder com classe e vencer com ousadia, porque o mundo pertence a quem se atreve. E a vida é muito bela para ser insignificante.”
 ― Charlie Chaplin 
 
 
