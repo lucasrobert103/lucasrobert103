@@ -1,4 +1,7 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/> Olá, sou o Lucas Robert dos Santos Bueno - 21 anos</h1>
+<h1 align="center">🛸Olá, bem vindo(a)! </h1>
+
+
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/> Sou o Lucas Robert dos Santos Bueno - 21 anos</h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <br>
