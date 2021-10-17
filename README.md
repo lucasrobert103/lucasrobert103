@@ -64,7 +64,6 @@
 <div>
 <img align = "center" src="https://i.imgur.com/UovuoGG.png" alt="angular" width="40" height="40"/> 
 <img align = "center" src="https://i.imgur.com/aSHZnoG.png" alt="bootstrap" width="30" height="35"/>
-<img align = "center" src="https://i.imgur.com/OeXAPLT.png" alt="csharp" width="40" height="40"/>
 <img align = "center" src="https://i.imgur.com/TLY19Q3.png" alt="css3" width="32" height="36"/>
 <img align = "center" src="https://i.imgur.com/O02pplX.png" alt="javascript" width="32" height="37"/>
 <img align = "center" src="https://i.imgur.com/HHwqtbv.png" alt="html" width="32" height="37"/> 
