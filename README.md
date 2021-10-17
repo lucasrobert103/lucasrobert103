@@ -89,7 +89,7 @@
   
 <div>  
   <h4 align="right"> Visitantes </h4>
-  <img align="right" src="https://profile-counter.glitch.me/tomasalric/count.svg">
+  <img align="right" src="https://profile-counter.glitch.me/lucasrobert103/count.svg">
    </div> 
     
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 
