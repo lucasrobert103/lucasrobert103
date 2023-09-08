@@ -1,7 +1,7 @@
 <h1 align="center">🛸Olá, bem vindo(a)! </h1>
 
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/> Sou o Lucas Robert dos Santos Bueno - 21 anos</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/> Sou o Lucas Robert dos Santos Bueno - 23 anos</h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <br>
@@ -14,11 +14,9 @@
 
 
 ## 🛠 Um Pouco Sobre MiM:
-- 🔭 Sou desenvolvedor Java Full Stack
+- 🔭 Sou desenvolvedor Frontend 
 - 🌱 Atualmente sou formado em:
 - ciências exatas em Licenciatura de Matemática / Física
-- Desenvolvedor na Generation Brasil.
-- Comecei recentemente meu MBA em análise de dados com BI e Big Data
 - Sou um Forte colaborador capaz de aprender rapidamente e aplicar novas tecnologias.
 - Atualmente Trabalho como Desenvolvedor na Santander Tecnologia
 
