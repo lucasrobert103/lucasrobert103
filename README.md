@@ -1,7 +1,7 @@
 <h1 align="center">🛸Olá, bem vindo(a)! </h1>
 
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/> Sou o Lucas Robert dos Santos Bueno - 23 anos</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1570211625/6611/wave-animated.gif?1570211625" width="30"/> Sou o Lucas Robert </h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <br>
@@ -18,14 +18,6 @@
 - 🌱 Atualmente sou formado em:
 - ciências exatas em Licenciatura de Matemática / Física
 - Sou um Forte colaborador capaz de aprender rapidamente e aplicar novas tecnologias.
-- Atualmente Trabalho como Desenvolvedor na Santander Tecnologia
-
-
-
-![image](https://user-images.githubusercontent.com/69163019/133696572-f6d40fb6-f7c3-43f9-9e4b-03a3b6a29cf0.png)
-
-
-
 
 
 
@@ -42,8 +34,6 @@
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=lucasrobert103&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrobert103&layout=compact&langs_count=7&theme=dark" />
 </div
-    <a href="https://github.com/lucasrobert103/ProjetoIntegrador-1">
-      <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Teethew&repo=ProjetoIntegrador&theme=midnight-purple" />
 </a>  
     
@@ -81,9 +71,7 @@
                                                            
                                                                                             
 </div>
- 
 
-[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt=" spotify playing" width="400" />](https://open.spotify.com/user/mano_tomasito)
   
 <div>  
   <h4 align="right"> Visitantes </h4>
