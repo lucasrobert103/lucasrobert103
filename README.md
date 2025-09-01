@@ -49,7 +49,7 @@
 
 | Curso | Instituição | Período |
 |-------|-------------|----------|
-| 📐 Arquitetura de Software | **Anhanguera Educacional** | abr/2024 – fev/2025 |
+| 📐 MBA Arquitetura de Software | **Anhanguera Educacional** | abr/2023 – fev/2025 |
 | 📊 MBA em Análise de Dados com BI & Big Data | **Cruzeiro do Sul** | mai/2021 – out/2022 |
 | 🧑‍💼 MBA em Gestão Estratégica de Projetos e Metodologias Ágeis ⭐ | **Uniamérica** | jun/2022 – jun/2023 |
 | 🤝 MBA em Gestão Estratégica de Pessoas, Liderança e Coaching ⭐ | **Uniamérica** | jun/2022 – jun/2023 |
