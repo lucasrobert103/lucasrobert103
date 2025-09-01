@@ -57,6 +57,7 @@
 
 </div>
 
+---
 
 ## 📜 Certificações
 <div align="center">
@@ -68,6 +69,7 @@
 
 </div>
 
+---
 
 <div align="center">
   <a href="https://github.com/lucasrobert103">
@@ -76,6 +78,7 @@
   </a>
 </div>
 
+---
 
 ## ⚡️ Linguagens e Ferramentas
 <div>
@@ -97,3 +100,31 @@
   <img src="https://i.imgur.com/YxyiXo4.png" alt="react" width="35" height="35"/>  
   <img src="https://i.imgur.com/IhS1TUg.png" alt="aws" width="50" height="50"/> 
 </div>
+
+---
+
+## 📈 Atividade no GitHub
+[![Lucas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucasrobert103&bg_color=0d1117&color=00ffb3&line=00ffb3&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🏆 Troféus
+[![trophy](https://github-profile-trophy.vercel.app/?username=lucasrobert103&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🔥 Streaks
+![GitHub Streak](https://streak-stats.demolab.com?user=lucasrobert103&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)
+
+---
+
+## 🐍 Snake Game
+![Snake animation](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
+
+---
+
+## ✨ Curiosidades
+- 🚀 Apaixonado por **tecnologia, ciência e exploração espacial**  
+- 🎮 Gamer nas horas vagas
+- 📷 Fotografia como hobby 
+- 🐶 Pai de dois dogs incríveis: **Raul & Sara**  
