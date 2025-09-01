@@ -128,3 +128,8 @@
 - 🎮 Gamer nas horas vagas
 - 📷 Fotografia como hobby 
 - 🐶 Pai de dois dogs incríveis: **Raul & Sara**  
+
+
+
+## 💋 Beijos
+![Divaaaaaaaaaaaaaaaaaaaaaaaaaaaa de mais](https://i.pinimg.com/originals/d4/df/09/d4df095031ed32f8ac8a6a98adf939cb.gif)
